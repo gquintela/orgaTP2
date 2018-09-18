@@ -1,0 +1,3 @@
+global efectoBayer_asm
+efectoBayer_asm:
+ret

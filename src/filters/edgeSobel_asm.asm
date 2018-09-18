@@ -1,0 +1,3 @@
+global edgeSobel_asm
+edgeSobel_asm:
+ret
